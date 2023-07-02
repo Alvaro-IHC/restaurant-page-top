@@ -13,7 +13,7 @@ const footer = () => {
   p.classList.add("footer-text");
   span.classList.add("footer-developer");
 
-  a.href = "https://github.com/Alvaro-IHC";
+  a.href = "https://github.com/Alvaro-IHC/restaurant-page-top";
   a.target = "_blank";
   p.textContent = "Developed by ";
   span.textContent = " Alvaro-IHC";
