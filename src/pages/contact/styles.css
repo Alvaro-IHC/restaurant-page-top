@@ -1,0 +1,19 @@
+.contact-page {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.contact-title {
+  margin-top: 4rem;
+  margin-bottom: 5rem;
+  text-align: center;
+}
+
+.contacts-container {
+  display: grid;
+  /* flex-direction: column; */
+  place-content: center;
+  gap: 2rem;
+  margin-bottom: 4rem;
+  align-items: stretch;
+}

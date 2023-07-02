@@ -1,0 +1,60 @@
+.home {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.home-description {
+  font-size: 1.7rem;
+  padding: 0 2rem;
+}
+
+.home-title {
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0.342), rgba(73, 21, 194, 0.541)), url('./../../assets/images/hero.jpg');
+  font-size: 4rem;
+  color: white;
+  height: 15rem;
+  background-size: cover;
+  background-position: center;
+  display: grid;
+  place-content: center;
+  text-align: center;
+  border-radius: 1rem;
+  box-shadow: 0 .2rem .7rem var(--background-op);
+  user-select: none;
+}
+
+@media(min-width: 480px) {
+  .home-title{
+    font-size: 7rem;
+    height: 20rem;
+  }
+}
+
+.home-paragraph {
+  line-height: 2.5rem;
+}
+
+.home-hours {
+  width: max-content;
+  margin: 1rem auto;
+  padding: 2rem;
+  box-shadow: .1rem .1rem 1rem var(--background-op);
+  display: grid;
+  place-content: center;
+  gap: 1rem;
+}
+
+.hours-row {
+  display: flex;
+  gap: 1rem;
+  justify-content: space-between;
+}
+
+.hours-key {
+  text-transform: uppercase;
+  margin: 0;
+}
+
+.hours-value {
+  margin: 0;
+}

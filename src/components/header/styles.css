@@ -1,0 +1,32 @@
+.app-header {
+  background-color: var(--background);
+  width: 97%;
+  margin: 0 auto;
+  transition: background-color 1s ease;
+  position: sticky;
+  top: 0;
+}
+
+@media(min-width: 480px) {
+  .app-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 90%;
+  }
+}
+
+.app-logo {
+  display: none;
+  transition: all 1s ease;
+}
+
+@media(min-width: 480px) {
+  .app-logo {
+    display: block;
+    height: 5rem;
+    border-radius: 50%;
+    border: .1rem solid var(--text);
+    background-color: var(--background-color);
+  }
+}

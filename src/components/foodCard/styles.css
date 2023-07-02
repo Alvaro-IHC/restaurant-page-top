@@ -1,0 +1,31 @@
+.food-card {
+  box-shadow: .1rem .1rem .7rem var(--background-op);
+  border-radius: 2rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+.food-card-content {
+  padding: 1rem;  
+}
+
+.food-card-title {
+  text-align: center;
+}
+
+.food-card-description {
+  line-height: 2rem;
+}
+
+.food-card-price {
+  font-weight: bold;
+}
+
+.food-card-image {
+  aspect-ratio: 1/1;
+  padding: 0;
+  margin: 0;
+  max-width: 100%;
+  border-radius: 0 0 2rem 2rem;
+}

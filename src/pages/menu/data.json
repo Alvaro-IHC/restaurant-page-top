@@ -1,0 +1,80 @@
+[
+  {
+    "name": "Delicious Burger",
+    "description": "A mouthwatering burger with juicy beef patty, fresh lettuce, tomatoes, and a secret sauce.",
+    "price": 9.99,
+    "image": "burger.jpg"
+  },
+  {
+    "name": "Crispy Fried Chicken",
+    "description": "Golden and crispy fried chicken served with seasoned fries and a side of tangy coleslaw.",
+    "price": 14.99,
+    "image": "chicken.jpg"
+  },
+  {
+    "name": "Creamy Pasta Carbonara",
+    "description": "Classic Italian pasta dish with creamy sauce, crispy bacon, Parmesan cheese, and a hint of black pepper.",
+    "price": 7.99,
+    "image": "pasta-carbonara.jpg"
+  },
+  {
+    "name": "Sizzling Steak",
+    "description": "A sizzling hot steak cooked to perfection, served with roasted potatoes and grilled vegetables.",
+    "price": 19.99,
+    "image": "steak.jpg"
+  },
+  {
+    "name": "Fresh Seafood Platter",
+    "description": "A delectable platter of fresh seafood including prawns, fish, scallops, and calamari, served with lemon wedges and tartar sauce.",
+    "price": 16.99,
+    "image": "seafood.jpg"
+  },
+  {
+    "name": "Vegetarian Delight",
+    "description": "A flavorful combination of grilled vegetables, quinoa salad, and a homemade dressing.",
+    "price": 10.99,
+    "image": "vegetarian.jpg"
+  },
+  {
+    "name": "Tropical Fruit Smoothie",
+    "description": "A refreshing blend of tropical fruits, yogurt, and a touch of honey, perfect for a hot summer day.",
+    "price": 5.99,
+    "image": "tropical.jpg"
+  },
+  {
+    "name": "Spicy Chicken Wings",
+    "description": "Spicy and succulent chicken wings served with a tangy dipping sauce.",
+    "price": 8.99,
+    "image": "spicy-chicken.jpg"
+  },
+  {
+    "name": "Homestyle Pizza",
+    "description": "A classic pizza topped with fresh ingredients, melted cheese, and a thin crispy crust.",
+    "price": 12.99,
+    "image": "pizza.jpg"
+  },
+  {
+    "name": "Gourmet Salad",
+    "description": "A gourmet salad with mixed greens, cherry tomatoes, avocado, feta cheese, and a balsamic vinaigrette.",
+    "price": 9.99,
+    "image": "salad.jpg"
+  },
+  {
+    "name": "Decadent Chocolate Cake",
+    "description": "A rich and decadent chocolate cake topped with a velvety chocolate ganache.",
+    "price": 6.99,
+    "image": "cake.jpg"
+  },
+  {
+    "name": "Refreshing Mojito",
+    "description": "A refreshing cocktail made with rum, mint leaves, lime juice, soda water, and a dash of sugar.",
+    "price": 7.99,
+    "image": "mojito.jpg"
+  },
+  {
+    "name": "Hearty Beef Stew",
+    "description": "A comforting and hearty beef stew with tender chunks of beef, carrots, potatoes, and aromatic herbs.",
+    "price": 11.99,
+    "image": "beef.jpg"
+  }
+]

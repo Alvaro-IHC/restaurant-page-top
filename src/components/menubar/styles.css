@@ -1,0 +1,62 @@
+.nav-bar {
+  display: grid;
+}
+
+.hidden {
+  display: none;
+}
+
+.display {
+  display: flex!important;
+  flex-direction: column;
+  align-items: center;
+}
+
+.links-container {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  background-color: var(--background);
+  display: none;
+  transition: background-color 1s ease;
+}
+
+@media(min-width: 480px) {
+  .links-container {
+    display: flex;
+  }
+}
+
+.icons-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.menu-icon {
+  justify-self: end;
+  padding: 2rem;
+}
+
+.menu-icon:hover {
+  cursor: pointer;
+}
+
+@media(min-width: 480px) {
+  .menu-icon {
+    display: none;
+  }
+}
+
+.sm-app-logo {
+  height: 3.6rem;
+  border-radius: 50%;
+  border: .1rem solid var(--text);
+  background-color: var(--background-color);
+}
+
+@media(min-width: 480px) {
+  .sm-app-logo {
+    display: none;
+  }
+}

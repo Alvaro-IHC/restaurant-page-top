@@ -1,0 +1,25 @@
+.app-footer {
+  background-color: var(--background-op);
+  color: var(--text-op);
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  transition: background-color 1s ease;
+  font-family: 'Questrial', sans-serif;
+
+}
+
+.footer-text {
+  text-align: center;
+
+}
+
+.gh-link {
+  text-decoration: none;
+  color: var(--text-op);
+}
+
+.footer-developer {
+  font-weight: bold;
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "John Doe",
+    "job": "Head Chef",
+    "phone": "123-456-7890",
+    "email": "john.doe@example.com",
+    "icon": "fa-solid fa-person-breastfeeding"
+  },
+  {
+    "name": "Jane Smith",
+    "job": "Restaurant Manager",
+    "phone": "987-654-3210",
+    "email": "jane.smith@example.com",
+    "icon": "fa-solid fa-user-tie"
+  },
+  {
+    "name": "Alice Johnson",
+    "job": "Waitress",
+    "phone": "555-123-4567",
+    "email": "alice.johnson@example.com",
+    "icon": "fa-solid fa-person-dots-from-line"
+  }
+]

@@ -1,0 +1,31 @@
+.contact-card {
+  box-shadow: .1rem .1rem .7rem var(--background-op);
+  border-radius: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem;
+  max-width: 50rem;
+}
+
+.contact-card-content {
+  padding: 1rem;
+  max-width: 60%;
+}
+
+.contact-card-name {
+  text-align: center;
+}
+
+.contact-card-email {
+  font-weight: bold;
+  /* overflow: hidden; */
+}
+
+.contact-icon {
+  aspect-ratio: 1/1;
+  padding: 0;
+  margin: 0;
+  border-radius: 0 0 2rem 2rem;
+  font-size: 10rem;
+}

@@ -1,0 +1,21 @@
+{
+  "name": "The Minimalistic Kitchen",
+  "description": [
+    "Welcome to The Minimalistic Kitchen, where simplicity meets culinary excellence. We pride ourselves on delivering a dining experience that embraces minimalism in both design and flavor.",
+    "Our philosophy revolves around the belief that less is more. We believe in using high-quality ingredients sourced from local farms and suppliers to create dishes that are a true celebration of natural flavors.",
+    "Every plate that leaves our kitchen is thoughtfully crafted to showcase the essence of each ingredient. At The Minimalistic Kitchen, we offer a diverse menu that caters to all palates.",
+    "From delectable appetizers to tantalizing main courses and indulgent desserts, our menu is carefully curated to offer a harmonious balance of tastes and textures.",
+    "Our dedicated team of chefs and staff are passionate about delivering exceptional service and ensuring that your dining experience is memorable. We take pride in providing a warm and inviting atmosphere where you can relax and savor every bite.",
+    "Whether you're joining us for a romantic dinner, a family gathering, or a business lunch, The Minimalistic Kitchen is the perfect destination for those seeking a refined dining experience in a minimalist setting.",
+    "Come and experience the art of simplicity at The Minimalistic Kitchen. We look forward to serving you soon."
+  ],
+  "hours": {
+    "monday": "9:00 AM - 6:00 PM",
+    "tuesday": "9:00 AM - 6:00 PM",
+    "wednesday": "9:00 AM - 6:00 PM",
+    "thursday": "9:00 AM - 6:00 PM",
+    "friday": "9:00 AM - 6:00 PM",
+    "saturday": "10:00 AM - 4:00 PM",
+    "sunday": "Closed"
+  }
+}
